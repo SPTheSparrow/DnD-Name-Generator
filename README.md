@@ -5,4 +5,4 @@ To run:
 
 > pip install bottle
 
-> python main
+> python main.py
